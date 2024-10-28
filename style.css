@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(210, 210, 210);
+}
+
+.box{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+p{
+    color: rgb(49, 49, 49);
+}
